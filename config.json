@@ -1,7 +1,7 @@
 {
   "detector": "venue_date",
   "movie": "Spider-Man: Brand New Day",
-  "requested_date": "20260801",
+  "requested_date": "20260809",
   "venue_code": "BWCB",
   "venue_label": "Broadway Cinemas: Coimbatore",
   "url_template": "https://in.bookmyshow.com/movies/coimbatore/spiderman-brand-new-day/buytickets/ET00447840/{date}",
